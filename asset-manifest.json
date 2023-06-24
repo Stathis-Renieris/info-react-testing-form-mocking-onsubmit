@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/info-react-testing-form-onsubmit/static/css/main.c68ae983.css",
-    "main.js": "/info-react-testing-form-onsubmit/static/js/main.a3f1532e.js",
-    "index.html": "/info-react-testing-form-onsubmit/index.html",
-    "main.c68ae983.css.map": "/info-react-testing-form-onsubmit/static/css/main.c68ae983.css.map",
-    "main.a3f1532e.js.map": "/info-react-testing-form-onsubmit/static/js/main.a3f1532e.js.map"
+    "main.css": "/info-react-testing-form-mocking-onsubmit/static/css/main.c68ae983.css",
+    "main.js": "/info-react-testing-form-mocking-onsubmit/static/js/main.a3f1532e.js",
+    "index.html": "/info-react-testing-form-mocking-onsubmit/index.html",
+    "main.c68ae983.css.map": "/info-react-testing-form-mocking-onsubmit/static/css/main.c68ae983.css.map",
+    "main.a3f1532e.js.map": "/info-react-testing-form-mocking-onsubmit/static/js/main.a3f1532e.js.map"
   },
   "entrypoints": [
     "static/css/main.c68ae983.css",
