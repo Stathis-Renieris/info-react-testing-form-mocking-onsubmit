@@ -1,6 +1,6 @@
 {
-  "name": "info-react-testing-form-onsubmit",
-  "homepage": "https://Stathis-Renieris.github.io/info-react-testing-form-onsubmit",
+  "name": "info-react-testing-form-mocking-onsubmit",
+  "homepage": "https://Stathis-Renieris.github.io/info-react-testing-form-mocking-onsubmit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
